@@ -1,6 +1,7 @@
 # 🎛 RIFTX – Official Press Kit
 
-**Minimal Wave & Synthwave Composer | AI Music Producer | Biohacker | Licensed Ham Radio Operator | Skywatcher**  
+**Minimal Wave & Synthwave Composer**  
+**Music Producer | Biohacker | Licensed Ham Radio Operator | Skywatcher**
 
 RIFTX creates **minimalist electronic landscapes** where **retro‑futuristic precision** meets **organic resilience**.  
 Rooted in **synthwave nostalgia** and **minimal wave clarity**, RIFTX blends **AI-assisted production** with human creativity to craft music that feels **timeless yet forward-looking**.  
