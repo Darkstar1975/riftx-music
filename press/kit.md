@@ -90,9 +90,9 @@ RIFTX is deeply committed to **open source values**, embracing transparency, col
 Open source is more than just software philosophy; it is a mindset that enables people to help their neighbors and friends through accessible, adaptable tools and ideas.  
 
 This ethos is reflected in every part of RIFTX’s work:  
-- **Technically**, by prioritizing open-source tools and platforms in production and communication.  
-- **Creatively**, by sharing processes, setups, and experimental methods so others can learn, replicate, and innovate.  
-- **Practically**, by designing mobile and off-grid performance rigs (powered by solar energy and rugged equipment) that can be repaired or built locally without reliance on fragile global supply chains.  
+- **Technically**, by prioritizing open-source tools and platforms wherever feasible in production and communication, while pragmatically integrating proprietary solutions only when necessary to ensure reliability and quality.  
+- **Creatively**, through transparent sharing of processes, setups, and experimental methods—enabling others to learn, replicate, and innovate within the community.  
+- **Practically**, by designing rugged, mobile, off-grid performance rigs powered by solar energy and built from durable, locally serviceable components—reducing dependence on fragile global supply chains and fostering resilience and self-reliance among neighbors and collaborators.  
 
 Through this, RIFTX fosters a culture of **mutual aid and collective empowerment**.  
 When one person thrives, the community benefits; when the community is strong, each individual grows stronger still.  
