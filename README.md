@@ -22,7 +22,7 @@ Metadata – Track info (BPM intentionally excluded for artistic intent)
 
 ---
 
-📀 Track List (Release Order):
+📀 Track List for def con 33 :
 
 1. Come Alive
 
@@ -33,13 +33,38 @@ Metadata – Track info (BPM intentionally excluded for artistic intent)
 3. The Cure is Ours
 
 
-4. Open Source
+4. open source
 
 
-5. 404: Nexus Not Found (selected for the DEF CON 33 official soundtrack)
+5. The Patch
 
 
+6. 404: Nexus Not Found (selected for the DEF CON 33 official soundtrack)
 
+
+7. Blue Team
+
+
+8. Red Team
+
+
+9. Botnet
+
+
+10. Cyber Awarness Protocol
+
+
+11.  The Field
+
+
+12. Fallback Mode
+    
+13. Whispers of the Darknet
+   
+14. Silent Harvest
+
+    
+15. Signals of #2600
 
 ---
 
