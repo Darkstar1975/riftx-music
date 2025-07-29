@@ -24,15 +24,12 @@ Each piece is crafted to be **deeply personal** yet **universally resonant** —
 - **Justice & Freedom** – Creative resistance through awareness and art.  
 - **Ham Radio & Global Connection** – Voices across borders, long-distance contact.  
 - **Skywatching & Cosmic Perspective** – Music inspired by the stars and space.  
-- **AI x Human Collaboration** – Machines as creative partners, not replacements.  
 
 ---
 
 ## 🛠 Mobile Performance Setup
 - **2× JBL Stage 320 Speakers** – Full-range clarity, off-grid powered.  
 - **Green Solar Power System** – Sustainable performance energy anywhere.  
-- **Portable Synths & Sequencers** – Analog & digital hybrids for live creation.  
-- **Ham Radio Integration** – Live global contact during select performances.  
 
 ---
 
@@ -41,14 +38,13 @@ Each piece is crafted to be **deeply personal** yet **universally resonant** —
 
 **Key Look:**
 - **Signature Black / Olive Tactical Lab Coat** – Tailored, high‑collar, multi‑pocket design.  
-- **Functional Survival Gear** – Modular storage for synth gear, mics, and ham radio.  
-- **Layered Over Camo Green Parka** – Field-ready for outdoor, off-grid shows.  
+- **Functional Survival Gear** – Modular storage for synth gear, mics, and ham radio.   
 - **Dark Cargo Pants & Boots** – Blending tactical function with electronic culture.  
 - **Subtle Glow Accents** – Reflective and phosphorescent trim for stage presence.  
 
 **Visual Tone:**  
 From **neon nightlife** to **post-digital resilience** — RIFTX stands as a **field scientist of sound**.  
-A figure in a **dark lab coat and green parka**, flanked by **solar-powered JBL towers**, operating like a lone research unit in the sonic wilderness.  
+A figure in a **dark lab coat **, flanked by **solar-powered JBL towers**, operating like a lone research unit in the sonic wilderness.  
 
 ---
 
