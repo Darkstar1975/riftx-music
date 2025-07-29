@@ -51,7 +51,7 @@ A figure in a **dark lab coat **, flanked by **solar-powered JBL towers**, opera
 ## 🛠 Creative Approach
 - **Production:** Analog synths, Cakewalk, G‑Stomper Studio, Pure Data, PO‑32, AI-assisted sequencing.  
 - **Sound Design:** AI‑crafted samples, atmospheric field recordings.  
-- **Performance:** Hybrid live/DJ sets with synchronized visuals.  
+- **Performance:** DJ sets with synchronized visuals.  
 - **Biohacking:** Audio‑based mood & focus optimization experiments.  
 - **Ham Radio:** Licensed amateur operator exploring resilient comms.  
 - **Astronomy:** Night sky observation as melodic inspiration.  
