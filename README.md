@@ -6,7 +6,7 @@ Welcome to **RIFTX**, a sonic initiative where art, circuitry, and digital freed
 
 ## 🧬 What's Inside?
 
-- 🎵 Full tracks and stems available for creative remix
+- 🎵 Lyrics
 - 🧠 Neural and emotional resonance tools
 - 🎨 Album art, visuals, and motion canvas elements
 - 🛠️ Audio utilities and modular components for experimentation
