@@ -3,6 +3,10 @@
 **Artist:** RIFTX  
 **Release Date:** 20 July 2025
 
+---
+
+## Lyrics
+
 We don't wait
 We don't kneel
 We make the cure
