@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 21 April 2024
 
+---
+
+## Lyrics
 We live online, we move so fast  
 But nothing digital is built to last  
 One wrong click, one system down  
