@@ -1,4 +1,4 @@
-# 🎶 The Cure is Ours — Metadata
+# 🎶 The Cure is Ours by RIFTX — Metadata
 
 ## 📜 Lyrics Analysis
 
