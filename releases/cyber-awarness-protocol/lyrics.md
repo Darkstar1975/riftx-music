@@ -1,7 +1,7 @@
 # Cyber Awareness Protocol by RIFTX — Lyrics
 
 **Artist:** RIFTX  
-**Release Date:** 1 januari 2025
+**Release Date:** 1 January 2025
 
 Do keep your software up to date  
 Patches and updates keep threats at bay  
