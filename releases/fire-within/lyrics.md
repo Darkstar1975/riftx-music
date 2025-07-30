@@ -1,4 +1,4 @@
-# Fire Within  
+# Fire Within by RIFTX — Lyrics
 **Release date:** 31 May 2025  
 
 ---
