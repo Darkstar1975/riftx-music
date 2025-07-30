@@ -1,4 +1,4 @@
-# Fallback Mode
+# Fallback Mode by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 25 May 2025
