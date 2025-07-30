@@ -1,5 +1,8 @@
 # The Cure is Ours
 
+**Artist:** RIFTX  
+**Release Date:** 20 juli 2025
+
 We don't wait  
 We don't kneel  
 We make the cure  
@@ -39,29 +42,4 @@ But with a cure
 They can't ignore  
 
 Smiles codes  
-Open hands  
-Micro labs  
-In no man's lands  
-
-Not their oath  
-Not their shrine  
-This is ours  
-This is time  
-
-One pill  
-No lie  
-We heal  
-You deny  
-
-No chains  
-No guides  
-We burn  
-You hide  
-
-No gate  
-No guard  
-No chain to hold  
-We make the new  
-From what was sold  
-
-No fear
+Open ha
