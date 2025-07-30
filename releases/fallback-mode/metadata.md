@@ -1,6 +1,8 @@
 # 🎶 Fallback Mode — Metadata
 
-## 📜 Lyrics Analysis
+---
+
+## Lyrics
 
 **Summary**  
 The lyrics depict a scenario of **survival amidst chaos and disconnection**, where communication is limited and the world feels dark and silent.  
