@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+$<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -60,7 +60,12 @@
 
 <section class="links">
     <a href="https://linktr.ee/riftx_music" target="_blank">🌐 All Links via Linktree</a>
-
+    <a href="https://open.spotify.com/artist/..." target="_blank">🎧 Listen on Spotify</a>
+    <a href="https://music.apple.com/artist/..." target="_blank">🍏 Listen on Apple Music</a>
+    <a href="https://youtube.com/..." target="_blank">▶ Watch on YouTube</a>
+    <a href="https://soundcloud.com/..." target="_blank">☁ Listen on SoundCloud</a>
+    <a href="https://tidal.com/..." target="_blank">🌊 Listen on TIDAL</a>
+    <a href="https://deezer.com/..." target="_blank">🎶 Listen on Deezer</a>
 </section>
 
 <div class="footer">
