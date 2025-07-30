@@ -3,6 +3,10 @@
 **Artist:** RIFTX  
 **Release Date:** 1 January 2025
 
+---
+
+## Lyrics
+
 Do keep your software up to date  
 Patches and updates keep threats at bay  
 Use strong passwords don't reuse  
