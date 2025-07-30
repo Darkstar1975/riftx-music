@@ -1,4 +1,4 @@
-# 404: Nexus Not Found
+# 404: Nexus Not Found by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 22 January 2025
