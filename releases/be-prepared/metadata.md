@@ -1,4 +1,4 @@
-# Be Prepared — Metadata
+# Be Prepared by RIFTX — Metadata
 
 **Artist:** RIFTX  
 **Release Date:** 21 April 2024  
