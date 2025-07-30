@@ -1,10 +1,13 @@
 # The Patch
 
+**Artist:** RIFTX  
+**Release Date:** 29 juli 2025
+
 They told us to wait.  
 For help. For healing. For permission.  
 But we couldn’t wait.  
 So we learned. We built.  
-We wrote our own way back.
+We wrote our own way back.  
 
 Woke up tired  
 Same grey sky  
@@ -13,12 +16,12 @@ That don’t ask why
 Told to smile  
 Told “you’ll heal”  
 But I was never  
-Made to kneel
+Made to kneel  
 
 Not a failure  
 Not a phase  
 I’m a signal  
-You can’t erase
+You can’t erase  
 
 This is the patch  
 Not from your store  
@@ -31,7 +34,7 @@ When they erase
 I’m not a case  
 You can't dispatch  
 This is my life  
-This is the patch
+This is the patch  
 
 Held together  
 With broken code  
@@ -40,12 +43,12 @@ Through concrete load
 They said wait  
 I said “why?”  
 So I rewired  
-My own sky
+My own sky  
 
 I don’t need fixing  
 I needed a map  
 Not one that they drew  
-But one that fights back
+But one that fights back  
 
 This is the patch  
 The breath I found  
@@ -57,9 +60,4 @@ No more consent
 To second best  
 I’m not a glitch  
 You can rematch  
-This is my truth  
-This is the patch
-
-You were never broken.  
-You just weren’t theirs.  
-You are the patch.
+This is my truth
