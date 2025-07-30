@@ -1,4 +1,4 @@
-# 🎶 The Field — Metadata
+# 🎶 The Field by RIFTX — Metadata
 
 ## 📜 Lyrics Analysis
 
