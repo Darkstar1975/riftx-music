@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 26 July 2025
 
+---
+
+## Lyrics
 Same old pills
 Same white walls
 Same fake smiles
