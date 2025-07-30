@@ -1,4 +1,4 @@
-# Cyber Awareness Protocol
+# Cyber Awareness Protocol by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 1 januari 2025
