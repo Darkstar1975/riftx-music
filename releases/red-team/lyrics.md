@@ -1,30 +1,35 @@
-Red team strikes, unseen they move
-Stealth and precision, they won't lose
-Infiltrate the system, breach the core
-Red team operators, they strike once more
+# Red Team
 
-Silent approach, they breach the line
-Shadows strike, they claim the time
-No defenses, they dominate
+**Artist:** RIFTX  
+**Release Date:** 28 december 2024
 
-Red team operators, they own the fight
-Systems fall, they're out of sight
+Red team strikes, unseen they move  
+Stealth and precision, they won't lose  
+Infiltrate the system, breach the core  
+Red team operators, they strike once more  
 
-Hidden codes, they infiltrate
-Systems weak, they leave no fate
-Red team strikes, they own the night
+Silent approach, they breach the line  
+Shadows strike, they claim the time  
+No defenses, they dominate  
 
-Take it higher, breach the wall
-Their control breaks, they'll fall
+Red team operators, they own the fight  
+Systems fall, they're out of sight  
 
-Red team operators, they take the prize
-Systems fall, they own the skies
+Hidden codes, they infiltrate  
+Systems weak, they leave no fate  
+Red team strikes, they own the night  
 
-Hidden forces
-They strike unseen
+Take it higher, breach the wall  
+Their control breaks, they'll fall  
 
-Red team operators, they've sealed the fate
-The system falls, they dominate
+Red team operators, they take the prize  
+Systems fall, they own the skies  
 
-They've breached the core
+Hidden forces  
+They strike unseen  
+
+Red team operators, they've sealed the fate  
+The system falls, they dominate  
+
+They've breached the core  
 They've won the war.
