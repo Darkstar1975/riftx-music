@@ -1,4 +1,4 @@
-# Be Prepared
+# Be Prepared by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 21 April 2024
