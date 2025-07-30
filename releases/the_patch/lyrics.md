@@ -1,7 +1,7 @@
 # The Patch
 
 **Artist:** RIFTX  
-**Release Date:** 29 juli 2025
+**Release Date:** 29 July 2025
 
 They told us to wait.  
 For help. For healing. For permission.  
