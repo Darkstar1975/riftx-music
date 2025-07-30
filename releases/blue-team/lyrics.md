@@ -1,4 +1,4 @@
-# Blue Team
+# Blue Team by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 28 December 2024
