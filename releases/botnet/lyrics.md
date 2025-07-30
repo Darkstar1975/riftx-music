@@ -1,30 +1,36 @@
-Red team strikes, unseen they move
-Stealth and precision, they won't lose
-Infiltrate the system, breach the core
-Red team operators, they strike once more
+# Botnet
 
-Silent approach, they breach the line
-Shadows strike, they claim the time
-No defenses, they dominate
+**Artist:** RIFTX  
+**Release Date:** 28 December 2024
 
-Red team operators, they own the fight
-Systems fall, they're out of sight
+From the dark, they rise and strike  
+Millions strong, they take the fight  
+System's weak, they find the flaw  
+Botnet swarms, the final draw  
 
-Hidden codes, they infiltrate
-Systems weak, they leave no fate
-Red team strikes, they own the night
+Silent whispers, they multiply  
+Flooding in, the defenses die  
+Swarm is growing, no chance to try  
 
-Take it higher, breach the wall
-Their control breaks, they'll fall
+Botnet swarm, it floods the core  
+They can't stop us, we're breaking more  
 
-Red team operators, they take the prize
-Systems fall, they own the skies
+Millions rise, the system's frail  
+Overwhelmed, they start to fail  
+Flooding through, I own the line  
+Swarm complete, the power's mine  
 
-Hidden forces
-They strike unseen
+Take it higher, break the grid  
+Botnet's power, can't stay hid  
 
-Red team operators, they've sealed the fate
-The system falls, they dominate
+Swarm is endless, they lose control  
+Botnet strikes, I claim the goal  
 
-They've breached the core
-They've won the war.
+They flood the dark  
+They take it all  
+
+Botnet swarm, no turning back  
+We've overwhelmed, they fade to black  
+
+The swarm is done  
+They've lost the W.
