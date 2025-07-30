@@ -66,7 +66,7 @@ A: Badge Signal is the pulse of the movement — the encrypted call connecting i
 
 ---
 
-# Track 4: Open Source (Manifesto Song)  
+# Track 4: Open Source 
 **Release Date:** July 29, 2025  
 
 **Interview:**  
