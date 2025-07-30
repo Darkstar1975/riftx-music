@@ -1,4 +1,4 @@
-# Come Alive
+# Come Alive by RIFTX — Lyrics
 
 **Artist:** RIFTX  
 **Release Date:** 26 July 2025
