@@ -1,4 +1,4 @@
-# 🎶 Open Source — Metadata
+# 🎶 Open Source by RIFTX — Metadata
 
 ## 📜 Lyrics Analysis
 
