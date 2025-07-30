@@ -1,88 +1,67 @@
-We don't wait
-We don't kneel
-We make the cure
-We break the seal
+# The Cure is Ours
 
-Not your brand
-Not your rule
-One small pill
-Not from your school
+We don't wait  
+We don't kneel  
+We make the cure  
+We break the seal  
 
-No white coat
-No clean hand
-We build the cure
-We take a stand
+Not your brand  
+Not your rule  
+One small pill  
+Not from your school  
 
-No gate
-No guard
-No chain to hold
-We make the new
-From what was sold
+No white coat  
+No clean hand  
+We build the cure  
+We take a stand  
 
-No fear
-No drug
-No king
-No creed
-We are the lab
-We are the need
+No gate  
+No guard  
+No chain to hold  
+We make the new  
+From what was sold  
 
-Code the cell
-Crack the wall
-One by one
-We take it all
+No fear  
+No drug  
+No king  
+No creed  
+We are the lab  
+We are the need  
 
-Not with guns
-Not with war
-But with a cure
-They can't ignore
+Code the cell  
+Crack the wall  
+One by one  
+We take it all  
 
-Smiles codes
-Open hands
-Micro labs
-In no man's lands
+Not with guns  
+Not with war  
+But with a cure  
+They can't ignore  
 
-Not their oath
-Not their shrine
-This is ours
-This is time
+Smiles codes  
+Open hands  
+Micro labs  
+In no man's lands  
 
-One pill
-No lie
-We heal
-You deny
+Not their oath  
+Not their shrine  
+This is ours  
+This is time  
 
-No chains
-No guides
-We burn
-You hide
+One pill  
+No lie  
+We heal  
+You deny  
 
-No gate
-No guard
-No chain to hold
-We make the new
-From what was sold
+No chains  
+No guides  
+We burn  
+You hide  
 
-No fear
-No drug
-No king
-No creed
-We are the lab
-We are the need
-
-No gate
-No guard
-No chain to hold
-We make the new
-From what was sold
+No gate  
+No guard  
+No chain to hold  
+We make the new  
+From what was sold  
 
 No fear
-No drug
-No king
-No creed
-We are the lab
-We are the need
-
-No blessing
-No price
-Just life
-Just life
