@@ -102,11 +102,4 @@ A: Badge Signal is the pulse of the movement — the encrypted call connecting i
 
 ---
 
-# Contact  
-**Label:** Pegasus Sonic Labs  
-**Press Inquiries:** press@pegasussoundlabs.com  
-**Social Media:** @RIFTX_official  
-
----
-
 *End of Press Kit*  
