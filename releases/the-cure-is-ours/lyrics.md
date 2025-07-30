@@ -1,7 +1,7 @@
 # The Cure is Ours
 
 **Artist:** RIFTX  
-**Release Date:** 20 juli 2025
+**Release Date:** 20 July 2025
 
 We don't wait  
 We don't kneel  
