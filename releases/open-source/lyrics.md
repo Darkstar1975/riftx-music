@@ -1,3 +1,11 @@
+# open source by RIFTX — Lyrics
+
+**Artist:** RIFTX  
+**Release Date:** 28 December 2024
+
+---
+
+## Lyrics
 They told us it's too late
 That the damage is done
 That healing belongs
