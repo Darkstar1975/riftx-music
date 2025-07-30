@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 28 December 2024
 
+---
+
+## Lyrics
 From the dark, they rise and strike  
 Millions strong, they take the fight  
 System's weak, they find the flaw  
