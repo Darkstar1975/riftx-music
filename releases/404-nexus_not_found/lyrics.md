@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 22 January 2025
 
+---
+
+## Lyrics
 Neon lights, the servers hum  
 Codes break through, the future's numb  
 Through firewalls high and data streams  
