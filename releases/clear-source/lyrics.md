@@ -1,4 +1,4 @@
-# Clear Source
+# Clear Source by RIFTX — Lyrics
 **Release date:** 28 May 2025  
 
 ---
