@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 28 December 2024
 
+---
+
+## Lyrics
 Stand tall, I'll hold the line  
 Shields up, they can't break through  
 Firing back, their attacks won't find  
