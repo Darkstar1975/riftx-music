@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 25 May 2025
 
+---
+
+## Lyrics
 Cq cq de oscar november three charly whiskey  
 Emergency traffic blackout confirmed in grid  
 Juliet oscar two zero bravo uniform  
