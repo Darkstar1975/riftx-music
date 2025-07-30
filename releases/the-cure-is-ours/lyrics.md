@@ -95,16 +95,3 @@ No blessing
 No price
 Just life
 Just life
-
-Code the cell  
-Crack the wall  
-One by one  
-We take it all  
-
-Not with guns  
-Not with war  
-But with a cure  
-They can't ignore  
-
-Smiles codes  
-Open ha
