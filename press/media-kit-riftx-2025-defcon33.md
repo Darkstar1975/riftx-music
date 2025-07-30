@@ -196,6 +196,6 @@ The ultimate goal extends beyond individual self-sufficiency to elevating the re
 - **GitHub:** [RIFTX Repo](https://github.com/pegasussoniclabs/riftx-musi)  
 - **Instagram:** [riftx_music](https://www.instagram.com/riftx_music/)  
 - **X / Twitter:** [@sonic_pegasus](https://x.com/sonic_pegasus)  
-- **Linktree:** [https://x.com/sonic_pegasus](https://linktr.ee/riftx_music) 
+- **Linktree:** [defcon 33 playlist](https://linktr.ee/riftx_music) 
 - **Press & Booking:** info@pegasussoniclabs.com  
 
