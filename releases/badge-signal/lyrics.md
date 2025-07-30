@@ -3,6 +3,9 @@
 **Artist:** RIFTX  
 **Release Date:** 26 July 2025
 
+---
+
+## Lyrics
 It's not just plastic  
 Not just bling  
 It pulses  
