@@ -1,4 +1,4 @@
-# 🎶 404: Nexus Not Found — Metadata
+# 🎶 404: Nexus Not Found by RIFTX — Metadata
 
 ## 📜 Lyrics Analysis
 
